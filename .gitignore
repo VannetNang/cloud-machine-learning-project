@@ -28,7 +28,6 @@ venv/
 .aws/
 
 # Model files (optional: if you don't want to commit them)
-*.pkl
 *.joblib
 
 # Prediction logs folder (if created locally)
